@@ -6,11 +6,11 @@
 ##############################################################
 
 # Fill up the contents below in order to reference your assignment 3 git contents
-AESD_ASSIGNMENTS_VERSION = '3c1a30e47c0543a5db609561af9c102e590774d6'
+AESD_ASSIGNMENTS_VERSION = ef756c91dfff2b9de6efe07647f29a6ea88f1c46
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
-AESD_ASSIGNMENTS_SITE = 'git@github.com:cu-ecen-aeld/assignments-3-and-later-DeeDee2804.git'
+AESD_ASSIGNMENTS_SITE = git@github.com:cu-ecen-aeld/assignments-3-and-later-DeeDee2804.git
 AESD_ASSIGNMENTS_SITE_METHOD = git
 AESD_ASSIGNMENTS_GIT_SUBMODULES = YES
 AESD_ASSIGNMENTS_MODULE_SUBDIRS = aesd-char-driver
